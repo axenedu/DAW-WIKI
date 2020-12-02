@@ -50,11 +50,16 @@ Si tienes cambios pendientes
 `git push origin --delete nombrerama`
 ## Deshacer cambios
 ### Revertir cambios públicos con Revert
-`git revert -n -m 1 hashinicial..HEAD`
+1. Crear rama nueva a partir de main/master
 
+2.`git revert -n -m 1 hashinicial..HEAD`
 Es un proceso de varios pasos que requiere solucionar conflictos y avanzar hasta llegar al final del proceso con el comando
 
 `git revert --continue`
+
+3. Seguir flujo normal
+
+3. Fusionar con la rama a revertir mediante Merge o  Pull Request.
 
 [Referencia StackOverflow](https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit)
 
