@@ -26,11 +26,13 @@ Mergear la rama main/master
 -- `git checkout main`
 
 -- `git pull`
+
 2. Volver a rama en desarrollo y mergear con main/master
 
 -- `git checkout rama`
 
 -- `git merge main`
+
 3. Resolver conflictos manualmente en caso de haberlos.
 4. Seguir con el flujo normal de add, commit, push, pull-request
  
