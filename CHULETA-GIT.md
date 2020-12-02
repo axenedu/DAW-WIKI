@@ -1,5 +1,7 @@
 # Chuleta GIT
-
+2
+2
+2
 ## Obtener cambios en Github
 `git fetch` 
 
@@ -64,4 +66,4 @@ Es un proceso de varios pasos que requiere solucionar conflictos y avanzar hasta
 
 [Referencia StackOverflow](https://stackoverflow.com/questions/160608/do-a-git-export-like-svn-export)
 
-
+2
