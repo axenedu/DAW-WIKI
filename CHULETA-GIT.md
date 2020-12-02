@@ -1,5 +1,7 @@
 # Chuleta GIT
 
+Línea nueva
+
 ## Obtener cambios en Github
 `git fetch` 
 
