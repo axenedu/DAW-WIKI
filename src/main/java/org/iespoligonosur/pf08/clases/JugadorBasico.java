@@ -6,6 +6,8 @@ package org.iespoligonosur.pf08.clases;
  * @author eserrano
  *
  */
+
+//Otro comentario piloto
 public abstract class JugadorBasico implements IJugador {
 
 	private String nombre;
