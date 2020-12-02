@@ -1,9 +1,5 @@
 # Chuleta GIT
-3
-3
-3
-3
-3
+
 ## Obtener cambios en Github
 `git fetch` 
 
