@@ -19,6 +19,7 @@ public abstract class JugadorBasico implements IJugador {
 	
 	public JugadorBasico() {
 		// TODO Auto-generated constructor stub
+		// Comentario Jose David
 	}
 
 }
