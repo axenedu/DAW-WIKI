@@ -1,5 +1,7 @@
 # Chuleta GIT
-
+josePablo
+josePaclo
+josePablo
 ## Obtener cambios en Github
 `git fetch` 
 
