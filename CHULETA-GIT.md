@@ -1,4 +1,7 @@
 # Chuleta GIT
+edu
+edu
+edu
 josePablo
 josePaclo
 josePablo
