@@ -75,4 +75,8 @@ Es un proceso de varios pasos que requiere solucionar conflictos y avanzar hasta
 
 [Referencia StackOverflow](https://stackoverflow.com/questions/160608/do-a-git-export-like-svn-export)
 
+## Administrar remotos
+
+[Documentación Github](https://docs.github.com/es/free-pro-team@latest/github/using-git/managing-remote-repositories)
+
 
