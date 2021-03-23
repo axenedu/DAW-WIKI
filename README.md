@@ -71,6 +71,11 @@ Es un proceso de varios pasos que requiere solucionar conflictos y avanzar hasta
 4. Descomprimir el archivo **.zip** creado
 5. Seguir el ciclo de git add, commit, etc.
 
+### Exportar el código de un proyecto sin versionar
+1. Exportar archivo
+2. `git archive -o inicial.zip HEAD`
+3. Descomprimir el archivo en una carpeta nueva
+
 [Referencia git-scm](https://git-scm.com/docs/git-archive)
 
 [Referencia StackOverflow](https://stackoverflow.com/questions/160608/do-a-git-export-like-svn-export)
