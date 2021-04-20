@@ -71,6 +71,11 @@ Es un proceso de varios pasos que requiere solucionar conflictos y avanzar hasta
 4. Descomprimir el archivo **.zip** creado
 5. Seguir el ciclo de git add, commit, etc.
 
+### Revertir cambios públicos, un único fichero a una version concreta  
+1. Exportar archivo  
+2. `git archive -o <fichero> 879b84c <fichero>`
+3. Seguir el ciclo de git add, commit, etc.
+
 ### Exportar el código de un proyecto sin versionar
 1. Exportar archivo
 2. `git archive -o inicial.zip HEAD`
